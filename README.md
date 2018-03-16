@@ -1,4 +1,4 @@
-### Classify the Roman ruler on a coin based on the coin's description
+## Classify the Roman ruler on a coin based on the coin's description
 
 Data was taken from eBay _Ancient Roman Coin_ listings.
 Some of them are tagged with the aspect of a Ruler and some are don't. 
@@ -8,7 +8,7 @@ Using CNN classification I was able to reach 95% accuracy.
 
 Based on https://github.com/jiegzhan/multi-class-text-classification-cnn
 
-# Why Neural Networks?
+### Why Neural Networks?
 
 From most entries you could deduct the ruler by a simple RegEx. Problem comes with ±10% of the 
 entries where the names are not included in the description at the expected format 
