@@ -1,0 +1,6 @@
+model_checkpoint_path: "/Users/danielzautner/projects/testscrape/ruler-classification-cnn/trained_model_1521137138/checkpoints/model-3000"
+all_model_checkpoint_paths: "/Users/danielzautner/projects/testscrape/ruler-classification-cnn/trained_model_1521137138/checkpoints/model-2200"
+all_model_checkpoint_paths: "/Users/danielzautner/projects/testscrape/ruler-classification-cnn/trained_model_1521137138/checkpoints/model-2400"
+all_model_checkpoint_paths: "/Users/danielzautner/projects/testscrape/ruler-classification-cnn/trained_model_1521137138/checkpoints/model-2600"
+all_model_checkpoint_paths: "/Users/danielzautner/projects/testscrape/ruler-classification-cnn/trained_model_1521137138/checkpoints/model-2800"
+all_model_checkpoint_paths: "/Users/danielzautner/projects/testscrape/ruler-classification-cnn/trained_model_1521137138/checkpoints/model-3000"
