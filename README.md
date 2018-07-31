@@ -1,7 +1,7 @@
 ## Classify the Roman ruler on a coin based on the coin's description
 
 Data was taken from eBay _Ancient Roman Coin_ listings.
-Some of them are tagged with the aspect of a Ruler and some are don't. 
+Some of them are tagged with the aspect of a Ruler and some are not. 
 For future usage I needed to fill the gaps for the entries that do not have the ruler specified.
 
 Using CNN classification I was able to reach 95% accuracy.
